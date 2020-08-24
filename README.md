@@ -4,7 +4,7 @@
 
 Link to my portfolio website: https://sites.google.com/view/sanjanajain/home
 
-I am a third-year B.Tech. undergraduate from Jaypee Institute of Information Technology, Noida. I am a computer science student with an interest in Augmented Reality, Virtual Reality, and Game Development.
+I am a fourth-year B.Tech. undergraduate from Jaypee Institute of Information Technology, Noida. I am a computer science student with an interest in Augmented Reality, Virtual Reality, and Game Development.
 
 A creative and strategic problem-solver, I am passionate about tackling complex problems, using my many diverse transferable skills.
 
