@@ -1,7 +1,5 @@
 ### Hello! My name is Sanjana and welcome to my GitHub Profile!
 
-#### I quit my job (Cyber) at Deloitte to pursue movement arts professionally.
-
 A creative and strategic problem-solver, I am passionate about tackling complex problems, using my many diverse transferable skills.
 Currently, I'm working on implementing my skills in Game Development into passion points of Kathak, Documentation, and Social Media.
 While I have advanced knowledge of Augmented Reality, I also have intermediate knowledge in Virtual Reality for Headsets with 6 DoF like HTC Vive and Oculus Rift.
