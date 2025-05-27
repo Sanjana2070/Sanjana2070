@@ -4,6 +4,9 @@ A creative and strategic problem-solver, I am passionate about tackling complex 
 Currently, I'm working on implementing my skills in Game Development into passion points of Kathak, Documentation, and Social Media.
 While I have advanced knowledge of Augmented Reality, I have knowledge of Game Development and MERN Stack Development as well.
 
+Experience: 
+Deloitte USI (Associate) - 2021-2024
+
 Key Technology Stack:
 + Unity3D (Advanced)
 + Blender (Intermediate)
@@ -22,7 +25,7 @@ Key Achievements till college:
 + Went to Google Hyderabad for Explore ML Bootcamp.
 + Winter Intern at Elixar Systems
 + Went to hackathons like iXi Uincept, BVICAM hackathon, and WieHack Online Hackathon (total hackathons more than 25)
-+ Have a Kathak 8-year diploma, along with 5 year training in various western classical and street dance forms including Contemporary and Whacking/Punking.
++ Have a Kathak 8-year diploma, along with 5 year training in various western classical and street dance forms including Contemporary and Waacking.
 
 
 You can contact me at sanjanajain1610@gmail.com
