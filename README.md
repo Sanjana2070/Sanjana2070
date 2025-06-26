@@ -4,9 +4,10 @@ I'm a frontend developer with a foundation in JavaScript, TypeScript, React, and
 
 ### 🔧 Tech Stack
 - **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL, C#, Python
-- **Frameworks/Libraries**: React, Redux, Node.js, Express  
+- **Frameworks/Libraries**: React, Node.js, Express, Firebase (for authentication)
 - **Tools**: Git, npm, Firebase, Unity3D
 - **Design**: Figma, Adobe Premiere Pro, DaVinci Resolve, Blender, Canva
+- **DataBase, Backend and DevOps**: MongoDB, Kubernetes, Docker, AWS
 
 ### 🚀 Projects I'm currently working on
 - **Qalira** – A platform to discover dance & music classes and events (React + Firebase)  
