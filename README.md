@@ -1,6 +1,6 @@
 # Hi, I'm Sanjana Jain
 
-I'm a frontend developer with a foundation in JavaScript, TypeScript, React, and Node.js — passionate about building clean, responsive, and scalable web applications. I combine technical expertise from my time at Deloitte with creativity from my journey as a dancer and content creator.
+I'm a full-stack developer with a foundation in JavaScript, TypeScript, React, Node.js, Express.js, Docker, and AWS — passionate about building clean, responsive, and scalable web applications. I combine technical expertise from my time at Deloitte with creativity from my journey as a dancer and content creator.
 
 ### Tech Stack
 - **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL, C#, Python
