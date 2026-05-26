@@ -9,9 +9,8 @@ I am currently focused on **Computer Vision, Motion Analysis, and Machine Learni
 ## Open To
 
 - Machine Learning Engineer Internships  
-- Computer Vision Roles  
-- AR/VR Engineering Roles  
-- Research Internships (Computer Vision, Robotics, Motion Analysis)
+- Computer Vision Roles
+- Research Internships (Computer Vision, Robotic Learning, Motion Analysis, Vision Transformers)
 
 ---
 
