@@ -1,111 +1,50 @@
-## Computer Vision & Machine Learning Engineer | AR/VR Developer
+# Sanjana Jain | Incoming MSCS Student at NYU Courant
 
-Aspiring MS in Computer Science student with 3+ years of experience at Deloitte USI (Risk and Financial Advisory).
-
-I am currently focused on **Computer Vision, Motion Analysis, and Machine Learning systems**, with a growing interest in building intelligent systems that understand human movement from visual data.
-
----
-
-## Open To
-
-- Machine Learning Engineer Internships  
-- Computer Vision Roles
-- Research Internships (Computer Vision, Robotic Learning, Motion Analysis, Vision Transformers)
-
----
-
-## Technical Focus
-
-- **CV/ML**: Pose Estimation, Video Understanding, Multimodal AI (Vision and Text Transformers)
-- **AR/VR**: Unity-based interactive systems, immersive applications  
-
----
-
-## Selected Projects
-
-### Lightweight Motion QA
-- Tech: Python, Pose Estimation, LLMs  
-- Built a system that answers natural language questions about human motion in short videos  
-- Combined pose estimation, temporal feature extraction, and LLM-based reasoning  
-
----
-
-### Gait Analysis for Parkinson’s Detection
-- Tech: Computer Vision, Image Processing, Python  
-- Developed a low-cost vision-based system for gait analysis  
-- Implemented skeletonization using background extraction, noise filtering, and morphological operations  
-- Extracted motion cues using cosine similarity to analyze gait patterns  
-
----
-
-### AR Retail Interface 
-- Tech: Unity, AR, ML  
-- Built an immersive retail navigation system with product visualization and recommendation flows  
-- Improved in-store user interaction through AR-based interfaces  
-
----
-
-### Mixed Reality Application (Future Generali)
-- Tech: Unity, AR/VR  
-- Developed an interactive AR/VR application to enhance customer engagement with insurance products  
-
----
-
-### Unity Games
-- Qwazzy Cupcakes: Physics-based game inspired by Angry Birds  
-- GrassHopper Run: Endless runner inspired by Temple Run  
-- Focus on gameplay systems, physics simulation, and user interaction  
-
----
-
-### Utility Tools
-- YouTube Video Downloader – Built a tool for offline video access  
-- YouTube Transcriber – Automated transcription system for improved accessibility  
-
----
+I am interested in Computer Vision, Robot Learning, and Motion Planning, with a growing focus on robotic systems that understand and reason about human movement from visual data. Interested in AI systems that combine perception, machine learning, and robotics.
 
 ## Experience
 
-### Deloitte USI – Risk and Financial Advisory  
-**Analyst (Identity and Access Management)**
-- Managed access control and IAM roles across enterprise Windows and Unix systems  
-- Handled production-level access issues and user provisioning workflows.
-- Worked on large-scale systems supporting enterprise security and compliance.
+**Deloitte USI** | Solution Delivery Associate (Cyber IAM) | 2022-2025
 
----
+* Managed identity and access for 1,500+ Linux servers using Active Directory and Centrify.
+* Maintained 98% SLA compliance while troubleshooting production IAM issues.
+* Received Deloitte Spot and Applause Awards for operational excellence.
 
-## Achievements
-- OpenCV AI Competition - Top 250 Teams Worldwide
-- Smart India Hackathon 2019 Winner
+**Elixar Systems (now Kalam Labs)** | AR Intern
 
----
+* Developed Augmented Reality solutions for EdTech and gained experience working in a fast-paced startup environment.
 
-## Currently Exploring
-- CLIP-based image classification  
-- DINO embeddings for visual clustering  
-- Motion representation learning  
-- Multimodal systems (vision + language)  
+## Hackathons
 
----
+* Winner, Smart India Hackathon (Mixed Reality solution for insurance)
+* South Asia Winner, OpenCV AI Competition (Top 150 teams worldwide)
+* Finalist, Build for Digital India
+* 25+ hackathons and technical competitions
 
-## Tech Stack
-**Languages**  
-Python, C++, JavaScript 
+## Skills
 
-**Frameworks & Tools**  
-React, Node.js, Docker
+**Languages:** Python, C++
 
-**Computer Vision / ML**  
-OpenCV, Pose Estimation
+**AI/ML:** PyTorch, OpenCV, CNNs, Vision Transformers, LLMs, RAG, LoRA Fine-tuning, Reinforcement Learning
 
-**AR/VR & Graphics**  
-Unity, Blender  
+**Robotics & Systems:** ROS 2, MuJoCo, Linux, Ubuntu, Parallel Programming
 
----
+## Featured Projects
 
-## Contact
+**Lightweight Motion QA**
+A vision-language system that answers questions about human motion in videos using pose estimation and LLM reasoning.
 
-- LinkedIn: https://www.linkedin.com/in/janis-sanjana-jain/  
-- Portfolio: https://sanjana2070.github.io  
+**Vision-Based Gait Analysis**
+A low-cost computer vision pipeline for Parkinson's gait analysis using skeletonization and motion feature extraction.
 
-I am actively seeking opportunities in Computer Vision and Machine Learning.
+**Personal Assistant Chatbot**
+A RAG-powered assistant over personal knowledge bases using ChromaDB and SQLite memory.
+
+## Interests
+
+Computer Vision • Robotics • Human Motion Understanding • Dance Anthropology • Performance Studies
+
+## Connect
+
+* Portfolio: https://sanjana2070.github.io
+* LinkedIn: https://www.linkedin.com/in/janis-sanjana-jain/
